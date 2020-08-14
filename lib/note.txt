@@ -1,0 +1,2 @@
+Download the RTC Plain Java API zip file and extract the API jars in this folder.
+Download here (Change version as needed) - https://jazz.net/downloads/rational-team-concert/releases/6.0.2/RTC-Client-plainJavaLib-6.0.2.zip
